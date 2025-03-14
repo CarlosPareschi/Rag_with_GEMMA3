@@ -1,0 +1,8 @@
+llama-index
+ipython
+streamlit
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+pytorch-lightning
+torch
+huggingface_hub
